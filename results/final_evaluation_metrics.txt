@@ -1,0 +1,6 @@
+ConvNeXt-Tiny Final Evaluation Metrics
+========================================
+Validation Accuracy : 87.56%
+Test Accuracy       : 87.56%
+Macro F1-Score      : 0.8727
+Weighted F1-Score   : 0.8753
